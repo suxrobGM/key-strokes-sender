@@ -1,5 +1,5 @@
 # KeyStrokesSender
-KeyStrokesSender is client-server application that client will send keystrokes or strings to server app. 
+KeyStrokesSender is client-server application that client will send keystrokes or strings to server app then server handle keystrokes. 
 #### List of keystrokes:
 0. Win+E
 1. Win+R
